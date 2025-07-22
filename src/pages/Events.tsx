@@ -19,7 +19,7 @@ const Events = () => {
       id: 2,
       title: "Community Food Fair",
       description: "Free Food  distribution and wellness workshops for the entire community.",
-      date: "2025-07-27",
+      date: "2025-07-26",
       location: "Community Center",
       image: "/images/hero.jpg",
       category: "Food"
